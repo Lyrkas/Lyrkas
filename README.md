@@ -1,1 +1,2 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=LYRKAS&show_icons=true&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LYRKAS&theme=tokyo-night) 
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
